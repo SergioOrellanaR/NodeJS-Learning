@@ -1,0 +1,16 @@
+{
+  "name": "03-basenode",
+  "version": "1.0.0",
+  "description": "Este paquete genera tablas de multiplicar y guarda archivo mediante lineas de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serorellanar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {}
+}

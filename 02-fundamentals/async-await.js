@@ -3,7 +3,7 @@ let getName = async() =>
 {
     try
     {
-        //neme = await var;
+        //name = await var;
         return 'Sergio';
     }
     catch
