@@ -1,0 +1,16 @@
+{
+  "name": "05-weatherworld",
+  "version": "1.0.0",
+  "description": "Muestra el clima en distintas ciudades del mundo",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serorellanar",
+  "license": "ISC"
+}

@@ -1,4 +1,4 @@
-const colors = require('colors');
+const colors = require('./node_modules/colors');
 const { createFile, toList } = require('./multiply/multiply.js');
 const argv = require('./config/yargs.js').argv;
 

@@ -11,7 +11,7 @@ const opt =
     }
 }
 
-const argv = require('yargs')
+const argv = require('../node_modules/yargs')
     .command('listar', 'Imprime en consola tabla de multiplicar',opt)
     .command('crear', 'Genera archivo con tabla y limite',opt)
     .help().argv;

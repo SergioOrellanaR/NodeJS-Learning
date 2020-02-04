@@ -1,6 +1,6 @@
 //requireds
 const fs = require("fs"); // => Paquete de node
-var colors = require('colors');
+var colors = require('../node_modules/colors');
 // const fs = require('express'); => No es libreria de node, es un paquete externo que se instala.
 // const fs = require('./path/fs'); => Libreria o archivos propios.
 
