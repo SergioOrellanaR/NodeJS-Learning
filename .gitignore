@@ -1,2 +1,5 @@
 03-baseNode/multiplicationTables/*.txt
 */node_modules
+**/assets
+!06-WebServer/public/assets/descarga.jpg
+!06-WebServer/public/assets/css/style.css
